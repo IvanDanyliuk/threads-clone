@@ -17,7 +17,7 @@ const Page = async () => {
     searchString: '',
     pageNumber: 1,
     pageSize: 20
-  })
+  });
 
   return (
     <section>
